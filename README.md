@@ -1,5 +1,5 @@
 # machine-learning-resources
-收集各种编程相关资源
+收集各种机器学习相关资源
 
 ## Kaggle竞赛
 入门教程
